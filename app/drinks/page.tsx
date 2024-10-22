@@ -1,7 +1,9 @@
+import React from "react";
+
 const page = () => {
   return (
     <div>
-      <p>Welcome to the home page</p>
+      <p>drinks</p>
     </div>
   );
 };
